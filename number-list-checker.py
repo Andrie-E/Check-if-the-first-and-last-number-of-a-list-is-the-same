@@ -12,5 +12,7 @@ numbers_y = [75, 65, 35, 75, 30]
 result_x = is_first_and_last_same(numbers_x)
 result_y = is_first_and_last_same(numbers_y)
 # Print
+print(f"given list: {numbers_x}")
 print(f"result is: {result_x}")
+print(f"numbers_y: {numbers_y}")
 print(f"result is: {result_y}")
