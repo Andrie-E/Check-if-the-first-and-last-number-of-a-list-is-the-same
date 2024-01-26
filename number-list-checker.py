@@ -11,5 +11,6 @@ numbers_y = [75, 65, 35, 75, 30]
 # Test the function
 result_x = is_first_and_last_same(numbers_x)
 result_y = is_first_and_last_same(numbers_y)
-print(result_x)
 # Print
+print(f"result is: {result_x}")
+print(f"result is: {result_y}")
